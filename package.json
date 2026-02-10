@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "vite build",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "vercel": "^50.14.0"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}
