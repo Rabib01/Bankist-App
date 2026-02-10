@@ -51,3 +51,6 @@ The main goal of this project is to strengthen understanding of core JavaScript 
 Acknowledgements
 
 This project is part of Jonas Schmedtmann’s Complete JavaScript Course and is intended for learning and practice purposes only.
+
+Made live at: 
+https://simple-bankist-app-rabib.vercel.app/
