@@ -54,3 +54,6 @@ This project is part of Jonas Schmedtmann’s Complete JavaScript Course and is 
 
 Made live at: 
 https://simple-bankist-app-rabib.vercel.app/
+
+Use js and 1111 tologin
+
